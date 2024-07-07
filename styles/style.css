@@ -33,6 +33,11 @@ li,a{
     border: none;
     border-radius: 8px;
 }
+.btn{
+    background:none;
+    border: 2px solid #FD6E0A;
+    color: #FD6E0A;
+}
 .headding{
     font-size: 35px;
     font-weight: bold;
