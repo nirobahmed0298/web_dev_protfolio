@@ -126,6 +126,7 @@ nav >ul li a{
 }
 .skill-card:hover{
     box-shadow: 5px 4px 20px;
+    transition: 0.5s;
 }
 .skill-card h4{
     font-size: 18px;
@@ -147,6 +148,9 @@ nav >ul li a{
     text-align: left;
     border-bottom: 1px solid black;
     margin-bottom: 40px;
+}
+#resume h4{
+    margin-bottom: 80px;
 }
 .resume-title h3{
     font-size: 30px;
